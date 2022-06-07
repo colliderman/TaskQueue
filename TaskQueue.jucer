@@ -3,6 +3,13 @@
 <JUCERPROJECT id="KbAysR" name="TaskQueue" projectType="guiapp" jucerVersion="5.4.3">
   <MAINGROUP id="nKz05U" name="TaskQueue">
     <GROUP id="{FF49FEE4-C399-2E14-BBEE-C96BDFF4ABA6}" name="Source">
+      <FILE id="TfMrxW" name="TaskQueueContainer.cpp" compile="1" resource="0"
+            file="/Users/cody/Developement/TaskQueue/Source/TaskQueueContainer.cpp"/>
+      <FILE id="CvQJiY" name="TaskQueueContainer.h" compile="0" resource="0"
+            file="/Users/cody/Developement/TaskQueue/Source/TaskQueueContainer.h"/>
+      <FILE id="LrRYLs" name="TaskQueueItem.cpp" compile="1" resource="0"
+            file="/Users/cody/Developement/TaskQueue/Source/TaskQueueItem.cpp"/>
+      <FILE id="HIA2mb" name="TaskQueueItem.h" compile="0" resource="0" file="/Users/cody/Developement/TaskQueue/Source/TaskQueueItem.h"/>
       <FILE id="PzjurZ" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
       <FILE id="JV1Ly2" name="MainComponent.cpp" compile="1" resource="0"
             file="Source/MainComponent.cpp"/>
